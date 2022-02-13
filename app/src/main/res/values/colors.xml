@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWelcome_1">#3D9626</color>
+    <color name="colorWelcome_2">#1D00DD</color>
+    <color name="colorWelcome_3">#505678</color>
+    <color name="colorClear">#FF5733</color>
+    <color name="colorBlue">#335AFF</color>
+    <color name="colorBlackBlue">#3336FF</color>
+    <color name="colorGrey">#d6d7d7</color>
+    <color name="colorWhite">#fafafa</color>
+    <color name="colorBlueLight">#3a8fd7</color>
+    <color name="colorBlackLight">#6e6e6e</color>
+    <color name="witheLight">#f4f6f7</color>
+
+    <color name="White">#FFFFFF</color>
+    <color name="Silver">#C0C0C0</color>
+    <color name="Gray">#808080</color>
+    <color name="Black">#000000</color>
+    <color name="Red">#FF0000</color>
+    <color name="Maroon">#800000</color>
+    <color name="Yellow">#FFFF00</color>
+    <color name="Olive">#808000</color>
+    <color name="Lime">#00FF00</color>
+    <color name="Green">#008000</color>
+    <color name="Aqua">#00FFFF</color>
+    <color name="Teal">#008080</color>
+    <color name="Blue">#0000FF</color>
+    <color name="Navy">#000080</color>
+    <color name="Fuchsia">#FF00FF</color>
+    <color name="Purple">#800080</color>
+
+</resources>

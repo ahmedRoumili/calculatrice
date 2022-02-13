@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="btnNumb">
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_rowWeight">1</item>
+        <item name="android:onClick">addNumber</item>
+        <item name="android:background">@color/colorWhite</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/colorBlackLight</item>
+    </style>
+
+    <style name="btnOpr">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:onClick">setOperator</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">@color/colorBlueLight</item>
+        <item name="android:background">@color/colorWhite</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+    <style name="btnOther">
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_rowWeight">1</item>
+        <item name="android:background">@color/colorWhite</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+
+</resources>
